@@ -6,8 +6,8 @@ public class StringtoChararray {
 		
 		StringtoChararray scs= new StringtoChararray();
 		
-		String s2c = "kotha";
-		char[] c2s = {'k','o','t','h','a'};
+		String s2c = "Prasada";
+		char[] c2s = {'p','r','a','s','a','d','a'};
 		
 		scs.tocharArray(s2c);
 		scs.toArraytoString(c2s);
